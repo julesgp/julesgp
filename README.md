@@ -16,8 +16,8 @@ I identify with the following emojis: 🇨🇦 🇨🇴 🏳️‍🌈 ⛰ 🏊�
   - Get better at web development by taking [Wes Bos Node course](https://learnnode.com/)
   - Learn more on [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/)
   - Challenge myself with [leetcode problems](https://leetcode.com/problemset/all/)
-  - Review [linear algebra](https://www.3blue1brown.com/topics/linear-algebra)concepts
-  - Binge on YouTube: [Crashcourses](https://www.youtube.com/c/crashcourse),  [Economics Explained](https://www.youtube.com/c/EconomicsExplained),  [p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA),  [Veritasium](https://www.youtube.com/user/1veritasium),  [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ).
+  - Review [linear algebra](https://www.3blue1brown.com/topics/linear-algebra) concepts
+  - Binge-watch: [Crashcourses](https://www.youtube.com/c/crashcourse),  [Economics Explained](https://www.youtube.com/c/EconomicsExplained),  [p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA),  [Veritasium](https://www.youtube.com/user/1veritasium),  [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ).
 <br>
 
 ## My Programming Languages
